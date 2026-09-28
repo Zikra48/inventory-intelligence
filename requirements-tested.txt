@@ -1,0 +1,7 @@
+# Direct dependencies tested with Python 3.12; not a full transitive lock.
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0
+streamlit==1.64.0
+plotly==6.9.0
+joblib==1.5.3
