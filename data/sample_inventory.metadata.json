@@ -1,0 +1,21 @@
+{
+  "synthetic": true,
+  "seed": 42,
+  "days_per_sku": 180,
+  "rows": 1440,
+  "start_date": "2026-04-01",
+  "end_date": "2026-09-27",
+  "currency": "PKR",
+  "stock_semantics": "Closing on-hand units after receipts and fulfilled sales",
+  "limitations": "Illustrative prices and patterns; not observed Multan industry data. Sales may be censored by stockouts. Receipts and pending orders are not exported.",
+  "patterns": {
+    "SKU001": "approaching_stockout",
+    "SKU002": "high",
+    "SKU003": "stable",
+    "SKU004": "increasing",
+    "SKU005": "stable",
+    "SKU006": "low",
+    "SKU007": "high",
+    "SKU008": "stable"
+  }
+}
